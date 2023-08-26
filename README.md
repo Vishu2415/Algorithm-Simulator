@@ -1,2 +1,2 @@
 # Algorithm-Simulator
-Algorithm Simulator in Java
+Algorithm Simulator, This Simulator is developed by using Java Language.
